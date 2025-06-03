@@ -80,7 +80,7 @@ BioGit2 实现了一系列与 Git 兼容的命令，包括：
 ## 如何构建
 
 ```bash
-git clone https://github.com/ScoreLdf/biogit.git
+git clone https://github.com/ScoreLdf/Biogit2.git
 cd BioGit2
 mkdir build && cd build
 cmake ..
